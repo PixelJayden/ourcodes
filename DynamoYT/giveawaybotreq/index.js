@@ -101,4 +101,4 @@ bot.on('message', async message => {
 
 });
 
-bot.login('NzI0MjQ0OTE1NDAzNDg5MzMx.Xu9Xow.WQVOrhfGuX9V80zla5QwEQdGCm0');
+bot.login('Add yo token here');
